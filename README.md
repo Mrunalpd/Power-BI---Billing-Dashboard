@@ -14,7 +14,7 @@ A professional Power BI dashboard built to visualize and manage billing data for
 ## 🗂️ Files Included
 
 - `Billing_Dashboard.pbix` – Power BI Dashboard File
-- Excel files (sample data): `Bill Register.xlsx`, `Collections.xlsx`, `WIP.xlsx`
+- Excel files (sample data): `Bill Register.xlsx`, `Collections.xlsx`, `Billing_Sample_Data.xlsx`
 
 ## 💡 How to Use
 
